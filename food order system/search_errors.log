@@ -1,0 +1,18 @@
+[2025-03-09 08:13:11] Executing query: SELECT * FROM `product` WHERE 
+                 `name` LIKE '%toma%' OR 
+                 `category` LIKE '%toma%'
+                 ORDER BY `name` ASC
+[2025-03-09 08:13:11] Search error: Unknown column 'category' in 'where clause'
+[2025-03-09 08:13:12] Executing query: SELECT * FROM `product` WHERE 
+                 `name` LIKE '%tomato%' OR 
+                 `category` LIKE '%tomato%'
+                 ORDER BY `name` ASC
+[2025-03-09 08:13:12] Search error: Unknown column 'category' in 'where clause'
+[2025-03-09 08:17:46] Executing query: SELECT * FROM `product` WHERE 
+                 `name` LIKE '%toma%'
+                 ORDER BY `name` ASC
+[2025-03-09 08:17:46] Found 1 products for query: toma
+[2025-03-09 08:17:47] Executing query: SELECT * FROM `product` WHERE 
+                 `name` LIKE '%tomato%'
+                 ORDER BY `name` ASC
+[2025-03-09 08:17:47] Found 1 products for query: tomato

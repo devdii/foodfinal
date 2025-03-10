@@ -1,0 +1,17 @@
+[2025-02-16 11:28:52] Processing product: tomato-onion burger
+[2025-02-16 11:28:52] Processing regular checkout
+[2025-02-16 11:32:15] Processing product: tomato-onion burger
+[2025-02-16 11:32:15] Processing regular checkout
+[2025-02-16 11:35:23] Processing product: tomato-onion burger
+[2025-02-16 11:35:23] Found Tomato-Onion Burger in cart
+[2025-02-16 11:35:23] Redirecting to payment gateway
+[2025-02-16 11:39:51] Processing product: tomato-onion burger
+[2025-02-16 11:39:51] Found Tomato-Onion Burger in cart
+[2025-02-16 11:39:51] Redirecting to payment gateway
+[2025-02-16 11:42:17] Processing product: tomato-onion burger
+[2025-02-16 11:42:17] Found Tomato-Onion Burger in cart
+[2025-02-16 11:42:17] Redirecting to payment gateway
+[2025-02-16 11:44:18] Processing product: tomato-onion burger
+[2025-02-16 11:44:18] Found Tomato-Onion Burger in cart - Quantity: 3
+[2025-02-16 11:44:18] Redirecting to payment gateway
+[2025-02-16 11:44:18] Total Amount - INR: 240, USD: 3.2

@@ -1,0 +1,49 @@
+2025-03-09 07:58:55 - Request type: Regular
+2025-03-09 07:58:55 - POST data: Array
+(
+)
+
+2025-03-09 07:58:59 - Request type: AJAX
+2025-03-09 07:58:59 - POST data: Array
+(
+    [product_name] => pepsi
+    [product_price] => 30
+    [product_image] => pepsi.jpg
+)
+
+2025-03-09 08:01:05 - Adding to cart - Name: tomato-onion burger, Price: 80, Image: bu1.jpg
+2025-03-09 08:01:05 - Product added successfully. New cart count: 1
+2025-03-09 08:01:25 - Adding to cart - Name: tomato-onion burger, Price: 80, Image: bu1.jpg
+2025-03-09 08:01:25 - Product already in cart: tomato-onion burger
+2025-03-09 08:01:28 - Adding to cart - Name: yellow paradise burger, Price: 100, Image: bu5.jpg
+2025-03-09 08:01:28 - Product added successfully. New cart count: 2
+2025-03-09 08:01:31 - Adding to cart - Name: indi-tandoori pizza, Price: 250, Image: piz.jpg
+2025-03-09 08:01:31 - Product added successfully. New cart count: 3
+2025-03-09 08:17:55 - Adding to cart - Name: aloo tikki burger, Price: 70, Image: bu3.jpg
+2025-03-09 08:17:55 - Product added successfully. New cart count: 1
+2025-03-09 08:19:08 - Adding to cart - Name: tomato-onion burger, Price: 80, Image: bu1.jpg
+2025-03-09 08:19:08 - Product added successfully. New cart count: 1
+2025-03-09 08:19:31 - Adding to cart - Name: yellow paradise burger, Price: 100, Image: bu5.jpg
+2025-03-09 08:19:31 - Product added successfully. New cart count: 1
+2025-03-09 08:22:35 - Adding to cart - Name: tomato-onion burger, Price: 80, Image: bu1.jpg
+2025-03-09 08:22:35 - Product added successfully. New cart count: 1
+2025-03-09 08:24:45 - Adding to cart - Name: tomato-onion burger, Price: 80, Image: bu1.jpg
+2025-03-09 08:24:45 - Product added successfully. New cart count: 1
+2025-03-09 08:36:53 - Adding to cart - Name: tomato-onion burger, Price: 80, Image: bu1.jpg
+2025-03-09 08:36:53 - Product added successfully. New cart count: 1
+2025-03-09 08:41:08 - Adding to cart - Name: steam shezwan momos, Price: 70, Image: momo.jpg
+2025-03-09 08:41:08 - Product added successfully. New cart count: 1
+2025-03-09 08:41:09 - Adding to cart - Name: fried curcure momos, Price: 120, Image: mo.jpg
+2025-03-09 08:41:09 - Product added successfully. New cart count: 2
+2025-03-09 14:01:36 - Adding to cart - Name: steam shezwan momos, Price: 70, Image: momo.jpg
+2025-03-09 14:01:36 - Product added successfully. New cart count: 1
+2025-03-09 14:01:39 - Adding to cart - Name: fried curcure momos, Price: 120, Image: mo.jpg
+2025-03-09 14:01:39 - Product added successfully. New cart count: 2
+2025-03-09 14:24:28 - Adding to cart - Name: paneer chilli pizza, Price: 200, Image: ceo.jpg
+2025-03-09 14:24:28 - Product added successfully. New cart count: 1
+2025-03-09 14:24:29 - Adding to cart - Name: farmhouse pizza , Price: 190, Image: chef.jpg
+2025-03-09 14:24:29 - Product added successfully. New cart count: 2
+2025-03-09 14:29:04 - Adding to cart - Name: aloo tikki burger, Price: 70, Image: bu3.jpg
+2025-03-09 14:29:04 - Product added successfully. New cart count: 1
+2025-03-10 05:16:27 - Adding to cart - Name: tomato-onion burger, Price: 80, Image: bu1.jpg
+2025-03-10 05:16:27 - Product added successfully. New cart count: 1

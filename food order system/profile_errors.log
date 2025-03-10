@@ -1,0 +1,201 @@
+[09-Mar-2025 14:52:22 Europe/Berlin] 2025-03-09 14:52:22 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:52:22 Europe/Berlin] 2025-03-09 14:52:22 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:52:22 Europe/Berlin] 2025-03-09 14:52:22 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:52:22 Europe/Berlin] 2025-03-09 14:52:22 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:52:22 Europe/Berlin] 2025-03-09 14:52:22 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:52:22 Europe/Berlin] 2025-03-09 14:52:22 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:52:22 Europe/Berlin] 2025-03-09 14:52:22 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:52:22 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:381
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 381
+[09-Mar-2025 14:52:29 Europe/Berlin] 2025-03-09 14:52:29 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:52:29 Europe/Berlin] 2025-03-09 14:52:29 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:52:30 Europe/Berlin] 2025-03-09 14:52:30 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:52:30 Europe/Berlin] 2025-03-09 14:52:30 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:52:30 Europe/Berlin] 2025-03-09 14:52:30 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:52:30 Europe/Berlin] 2025-03-09 14:52:30 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:52:30 Europe/Berlin] 2025-03-09 14:52:30 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:52:30 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:381
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 381
+[09-Mar-2025 14:52:36 Europe/Berlin] 2025-03-09 14:52:36 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:52:36 Europe/Berlin] 2025-03-09 14:52:36 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:52:36 Europe/Berlin] 2025-03-09 14:52:36 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:52:36 Europe/Berlin] 2025-03-09 14:52:36 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:52:36 Europe/Berlin] 2025-03-09 14:52:36 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:52:36 Europe/Berlin] 2025-03-09 14:52:36 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:52:36 Europe/Berlin] 2025-03-09 14:52:36 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:52:36 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:381
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 381
+[09-Mar-2025 14:53:37 Europe/Berlin] 2025-03-09 14:53:37 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:53:37 Europe/Berlin] 2025-03-09 14:53:37 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:53:37 Europe/Berlin] 2025-03-09 14:53:37 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:53:37 Europe/Berlin] 2025-03-09 14:53:37 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:53:37 Europe/Berlin] 2025-03-09 14:53:37 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:53:37 Europe/Berlin] 2025-03-09 14:53:37 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:53:37 Europe/Berlin] 2025-03-09 14:53:37 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:53:37 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:381
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 381
+[09-Mar-2025 14:54:33 Europe/Berlin] 2025-03-09 14:54:33 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:54:33 Europe/Berlin] 2025-03-09 14:54:33 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:54:33 Europe/Berlin] 2025-03-09 14:54:33 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:54:33 Europe/Berlin] 2025-03-09 14:54:33 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:54:33 Europe/Berlin] 2025-03-09 14:54:33 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:54:33 Europe/Berlin] 2025-03-09 14:54:33 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:54:33 Europe/Berlin] 2025-03-09 14:54:33 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:54:33 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:383
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 383
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - Processing profile update - Data: {"post_data":{"name":"Nehal","phone":"9139191391","preferred_payment":"cash","address":""}}
+[09-Mar-2025 14:54:39 Europe/Berlin] 2025-03-09 14:54:39 - Profile updated successfully
+[09-Mar-2025 14:54:39 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:383
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 383
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - Processing profile update - Data: {"post_data":{"name":"Nehal","phone":"9139191391","preferred_payment":"cash","address":""}}
+[09-Mar-2025 14:55:21 Europe/Berlin] 2025-03-09 14:55:21 - Profile updated successfully
+[09-Mar-2025 14:55:21 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - Processing profile update - Data: {"post_data":{"name":"Nehal","phone":"9139191391","preferred_payment":"cash","address":""}}
+[09-Mar-2025 14:55:25 Europe/Berlin] 2025-03-09 14:55:25 - Profile updated successfully
+[09-Mar-2025 14:55:25 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:55:34 Europe/Berlin] 2025-03-09 14:55:34 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:55:34 Europe/Berlin] 2025-03-09 14:55:34 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:55:34 Europe/Berlin] 2025-03-09 14:55:34 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:55:34 Europe/Berlin] 2025-03-09 14:55:34 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:55:34 Europe/Berlin] 2025-03-09 14:55:34 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:55:34 Europe/Berlin] 2025-03-09 14:55:34 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:55:34 Europe/Berlin] 2025-03-09 14:55:34 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:55:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:55:49 Europe/Berlin] 2025-03-09 14:55:49 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:55:49 Europe/Berlin] 2025-03-09 14:55:49 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:55:49 Europe/Berlin] 2025-03-09 14:55:49 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:55:49 Europe/Berlin] 2025-03-09 14:55:49 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:55:49 Europe/Berlin] 2025-03-09 14:55:49 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:55:49 Europe/Berlin] 2025-03-09 14:55:49 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:55:49 Europe/Berlin] 2025-03-09 14:55:49 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:55:49 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:56:13 Europe/Berlin] 2025-03-09 14:56:13 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:56:13 Europe/Berlin] 2025-03-09 14:56:13 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:56:13 Europe/Berlin] 2025-03-09 14:56:13 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:56:13 Europe/Berlin] 2025-03-09 14:56:13 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:56:13 Europe/Berlin] 2025-03-09 14:56:13 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:56:13 Europe/Berlin] 2025-03-09 14:56:13 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:56:13 Europe/Berlin] 2025-03-09 14:56:13 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:56:13 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:56:14 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:56:14 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:56:14 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:56:14 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - User details fetched - Data: {"found":true}
+[09-Mar-2025 14:56:14 Europe/Berlin] 2025-03-09 14:56:14 - Preferred payment column check - Data: {"exists":true}
+[09-Mar-2025 14:56:15 Europe/Berlin] 2025-03-09 14:56:15 - Checking corder table - Data: {"exists":true}
+[09-Mar-2025 14:56:15 Europe/Berlin] 2025-03-09 14:56:15 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[09-Mar-2025 14:56:15 Europe/Berlin] 2025-03-09 14:56:15 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[09-Mar-2025 14:56:15 Europe/Berlin] 2025-03-09 14:56:15 - Orders fetched - Data: {"count":5}
+[09-Mar-2025 14:56:15 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
+[10-Mar-2025 04:41:08 Europe/Berlin] 2025-03-10 04:41:08 - Session timeout detected for user
+[10-Mar-2025 04:44:43 Europe/Berlin] 2025-03-10 04:44:43 - Fetching data for user - Data: {"email":"yigidi4594@payposs.com"}
+[10-Mar-2025 04:44:43 Europe/Berlin] 2025-03-10 04:44:43 - User details fetched - Data: {"found":true}
+[10-Mar-2025 04:44:44 Europe/Berlin] 2025-03-10 04:44:44 - Preferred payment column check - Data: {"exists":true}
+[10-Mar-2025 04:44:44 Europe/Berlin] 2025-03-10 04:44:44 - Checking corder table - Data: {"exists":true}
+[10-Mar-2025 04:44:44 Europe/Berlin] 2025-03-10 04:44:44 - JSON decode error for order - Data: {"order_id":56,"error":"Syntax error"}
+[10-Mar-2025 04:44:44 Europe/Berlin] 2025-03-10 04:44:44 - JSON decode error for order - Data: {"order_id":55,"error":"Syntax error"}
+[10-Mar-2025 04:44:44 Europe/Berlin] 2025-03-10 04:44:44 - Orders fetched - Data: {"count":5}
+[10-Mar-2025 04:44:44 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\xampp\htdocs\food order system\food order system\profile.php:405
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\food order system\food order system\profile.php on line 405
