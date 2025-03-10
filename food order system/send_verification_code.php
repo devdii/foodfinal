@@ -35,8 +35,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = 'welcometoomyportfolio@gmail.com';
-        $mail->Password = 'nvdz zfui saxw ylak'; // Keep your existing App Password
+        $mail->Username = 'your email';
+        $mail->Password = ''; // Keep your existing App Password
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; // Changed to SMTPS
         $mail->Port = 465; // Changed to 465 for SMTPS
         
@@ -46,7 +46,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $mail->SMTPKeepAlive = true;
 
         // Recipients
-        $mail->setFrom('welcometoomyportfolio@gmail.com', 'Food Order System');
+        $mail->setFrom('your email', 'Food Order System');
         $mail->addAddress($email);
 
         // Content
